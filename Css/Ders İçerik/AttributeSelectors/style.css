@@ -1,0 +1,17 @@
+p[title]{
+    border: 1px solid black;
+}
+p[title="second"]{
+    background-color: beige;
+}
+/*p[title]{
+    background-color: brown
+    
+}*/
+a[href^="https"]{
+    color: aqua;
+}
+input[type="button"]{
+    background-color: blue;
+    
+}

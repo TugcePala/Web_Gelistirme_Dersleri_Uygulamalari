@@ -1,0 +1,31 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.blue th {
+    background-color: cadetblue;
+}
+
+.orange th {
+    background-color: coral;
+}
+
+table th,
+table td {
+    border: 1px solid black;
+    padding: 6px;
+}
+
+table th {
+    text-align: left;
+    color: aliceblue;
+}
+
+table tr:nth-last-of-type(odd) {
+    background-color: lightgray;
+}
+
+table tr:hover {
+    background-color: beige;
+}
