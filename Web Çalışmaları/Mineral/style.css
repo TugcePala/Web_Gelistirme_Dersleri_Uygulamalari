@@ -1,0 +1,21 @@
+body,html{
+    height: %100;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-nav ul {
+    
+   align-content: flex-end;    
+
+}
+.header {
+     margin: 0;
+     padding: 0;
+    
+     
+}
+ img{
+    
+    width: %100;
+}
